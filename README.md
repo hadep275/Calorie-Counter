@@ -1,10 +1,3 @@
-# Calorie-Counter
-The Calorie Calculator is a web application designed to help users track their daily calorie intake and manage their diet. This professional and sophisticated tool allows users to set a daily calorie budget, input meals, snacks, and exercise, and calculates the remaining calories to maintain a healthy lifestyle.
-
-Certainly! Below is an extensive and detailed README template for your calorie calculator project. Be sure to customize it with relevant information, links, and screenshots.
-
----
-
 # Calorie Calculator
 
 ![screencapture-hadep275-github-io-Calorie-Counter-2023-12-25-23_24_35](https://github.com/hadep275/Calorie-Counter/assets/65734173/c61bae6a-c4b1-46d1-adc7-dac5b4beed60)
@@ -25,7 +18,7 @@ Certainly! Below is an extensive and detailed README template for your calorie c
 ## Overview
 
 The Calorie Calculator is a web application designed to help users track their daily calorie intake and manage their diet. This professional and sophisticated tool allows users to set a daily calorie budget, input meals, snacks, and exercise, and calculates the remaining calories to maintain a healthy lifestyle.
-
+---
 ## Demo
 
 Check out the [live demo](https://hadep275.github.io/Calorie-Counter/).
