@@ -1,6 +1,6 @@
 # Calorie Calculator
 
-![screencapture-hadep275-github-io-Calorie-Counter-2023-12-25-23_24_35](https://github.com/hadep275/Calorie-Counter/assets/65734173/c61bae6a-c4b1-46d1-adc7-dac5b4beed60)
+![screencapture-hadep275-github-io-Calorie-Counter-2023-12-25-23_24_35 (1)](https://github.com/hadep275/Calorie-Counter/assets/65734173/3f992b04-c5b9-4eae-9988-d78f168d22f5)
 
 ## Table of Contents
 
