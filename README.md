@@ -7,7 +7,7 @@ Certainly! Below is an extensive and detailed README template for your calorie c
 
 # Calorie Calculator
 
-![Demo](demo/screenshot.png)
+![screencapture-hadep275-github-io-Calorie-Counter-2023-12-25-23_24_35](https://github.com/hadep275/Calorie-Counter/assets/65734173/c61bae6a-c4b1-46d1-adc7-dac5b4beed60)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ The Calorie Calculator is a web application designed to help users track their d
 
 ## Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the [live demo](https://hadep275.github.io/Calorie-Counter/).
 
 ![Demo](demo/screenshot.png)
 
