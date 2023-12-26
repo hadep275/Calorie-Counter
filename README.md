@@ -8,6 +8,7 @@ The Calorie Calculator is a web application designed to help users track their d
 
 Check out the [Calorie Counter](https://hadep275.github.io/Calorie-Counter/).
 
+![screencapture-hadep275-github-io-Calorie-Counter-2023-12-25-23_24_35 (1)](https://github.com/hadep275/Calorie-Counter/assets/65734173/76f2da11-ff6a-4d16-9217-c5277414549c)
 
 ## Table of Contents
 
@@ -22,7 +23,6 @@ Check out the [Calorie Counter](https://hadep275.github.io/Calorie-Counter/).
 - [Contributing](#contributing)
 - [License](#license)
 
-![screencapture-hadep275-github-io-Calorie-Counter-2023-12-25-23_24_35 (1)](https://github.com/hadep275/Calorie-Counter/assets/65734173/76f2da11-ff6a-4d16-9217-c5277414549c)
 
 
 ## Features
