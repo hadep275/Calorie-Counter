@@ -46,7 +46,7 @@ Check out the [Calorie Counter](https://hadep275.github.io/Calorie-Counter/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calorie-calculator.git
+   git clone https://github.com/hadep275/Calorie-Counter.git
    ```
 
 2. Navigate to the project directory:
